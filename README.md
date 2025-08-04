@@ -3,7 +3,6 @@
 Clean and prepare a raw dataset containing customer information for marketing analysis. The goal was to handle missing values, remove duplicates, standardize formats, and make the dataset ready for further analysis or visualization.
 
 ---
-
 ## 🛠 Tools Used
 - **Microsoft Excel** (100% of cleaning done manually)
 
